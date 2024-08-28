@@ -82,5 +82,4 @@ If you'd like to contribute to this project, please feel free to fork the reposi
 ---
 
 Developed by [ninja-whale](https://github.com/ninja-whale)
-```
 
