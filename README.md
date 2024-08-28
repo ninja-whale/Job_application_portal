@@ -9,12 +9,6 @@ Welcome to the Job Application Portal! This Flask-based web application allows u
 - **View Submission**: After submission, users can view their job application details but cannot edit them.
 - **Responsive Design**: The application is styled using Bootstrap for a clean and responsive interface.
 
-## Screenshots
-
-![Login Page](screenshots/login.png)
-![Job Details Form](screenshots/job_details.png)
-![View Submission](screenshots/view_submission.png)
-
 ## Installation
 
 Follow these steps to set up and run the application locally:
