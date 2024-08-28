@@ -70,8 +70,8 @@ Job_applicatiob_portal/
 │   │   ├── job_details.html
 │   │   ├── view_submission.html
 │   │   └── layout.html
-│   └── requirements.txt
-├── uploads/           # Uploaded resumes will be stored here
+│   ├── uploads/            # Uploaded resumes will be stored here
+│   └── requirements.txt             
 └── README.md          # This file
 ```
 
