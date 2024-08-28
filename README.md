@@ -23,7 +23,7 @@ Follow these steps to set up and run the application locally:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/ninja-whale/job-application-portal.git
+git clone https://github.com/ninja-whale/Job_application_portal.git
 cd job-application-portal
 ```
 
