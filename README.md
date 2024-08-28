@@ -1,8 +1,3 @@
-Here’s a `README.md` template for your GitHub repository. This template provides an overview of the project, installation instructions, usage details, and more.
-
-### `README.md`
-
-```markdown
 # Job Application Portal
 
 Welcome to the Job Application Portal! This Flask-based web application allows users to log in, fill out a job application form for a Software Engineer position, and upload their resume. Once the form is submitted, users can view their submission but cannot modify it.
@@ -89,10 +84,6 @@ resume-upload/
 ## Contributing
 
 If you'd like to contribute to this project, please feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
