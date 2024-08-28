@@ -58,7 +58,7 @@ The application should now be running on [http://127.0.0.1:5000/](http://127.0.0
 ## File Structure
 
 ```plaintext
-resume-upload/
+Job_applicatiob_portal/
 │
 ├── Website/
 │   ├── app.py
