@@ -4,3 +4,4 @@ Flask-SQLAlchemy==2.5.1
 Werkzeug==2.3.6
 gunicorn
 config
+sqlalchemy==1.4.47  # or another compatible version
